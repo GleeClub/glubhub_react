@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/glubhub/static/css/main.c652df7d.chunk.css",
+    "main.js": "/glubhub/static/js/main.bce5b5e5.chunk.js",
+    "main.js.map": "/glubhub/static/js/main.bce5b5e5.chunk.js.map",
+    "runtime-main.js": "/glubhub/static/js/runtime-main.5da0d22c.js",
+    "runtime-main.js.map": "/glubhub/static/js/runtime-main.5da0d22c.js.map",
+    "static/js/2.46deb1e0.chunk.js": "/glubhub/static/js/2.46deb1e0.chunk.js",
+    "static/js/2.46deb1e0.chunk.js.map": "/glubhub/static/js/2.46deb1e0.chunk.js.map",
+    "index.html": "/glubhub/index.html",
+    "precache-manifest.efb5cda12bb23fbc710b36ed3a33e593.js": "/glubhub/precache-manifest.efb5cda12bb23fbc710b36ed3a33e593.js",
+    "service-worker.js": "/glubhub/service-worker.js",
+    "static/css/main.c652df7d.chunk.css.map": "/glubhub/static/css/main.c652df7d.chunk.css.map",
+    "static/js/2.46deb1e0.chunk.js.LICENSE.txt": "/glubhub/static/js/2.46deb1e0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5da0d22c.js",
+    "static/js/2.46deb1e0.chunk.js",
+    "static/css/main.c652df7d.chunk.css",
+    "static/js/main.bce5b5e5.chunk.js"
+  ]
+}
